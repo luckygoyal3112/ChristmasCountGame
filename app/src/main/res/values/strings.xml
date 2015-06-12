@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Toddler School</string>
+
+    <string name="game1_header">Lets have a Christmas Party!!</string>
+    <string name="game1_button1">Lets Begin</string>
+    <string name="game1_button2">Count upto 10!</string>
+    <string name="action_settings">Settings</string>
+    <color name="game1color">#ff7f071c</color>
+    <color name="buttoncolor">#ffeae579</color>
+    <color name="textcolor">#ffd0cbd4</color>
+    <color name="picturecolor">#ffcccc1e</color>
+    <string name="count1">How many cakes are there?</string>
+    <string name="count2">How many turkeys did mom made?</string>
+    <string name="count3">How many presents did Santa got?</string>
+    <string name="count4">How many glasses of juice?</string>
+    <string name="count5">How many Ginger breads?</string>
+    <string name="count6">Lets Party!!</string>
+</resources>
